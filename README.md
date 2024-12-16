@@ -6,6 +6,27 @@ The **MicroMouse Robot** is an autonomous robotic vehicle designed to navigate a
 
 The robot follows a maze-solving algorithm, specifically the **left-hand algorithm**, which keeps the left-hand side of the maze as a guide, always turning left at intersections until reaching the center.
 
+# Micromouse Robot
+
+## Images
+
+| **Image 1**                                                               | **Image 2**                                                               |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ![Image 1](https://github.com/karthirilla/Micromouse_Robot/blob/main/MICROMOUSE_1.jpg) | ![Image 2](https://github.com/karthirilla/Micromouse_Robot/blob/main/MICROMOUSE_2.jpg) |
+
+| **Image 3**                                                               | **Image 4**                                                               |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ![Image 3](https://github.com/karthirilla/Micromouse_Robot/blob/main/MICROMOUSE_3.jpg) | ![Image 4](https://github.com/karthirilla/Micromouse_Robot/blob/main/MICROMOUSE_4.jpg) |
+
+| **Image 5**                                                               | **Image 6**                                                               |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ![Image 5](https://github.com/karthirilla/Micromouse_Robot/blob/main/MICROMOUSE_5.jpg) | ![Image 6](https://github.com/karthirilla/Micromouse_Robot/blob/main/MICROMOUSE_6.jpg) |
+
+| **Image 7**                                                               | **Image 8**                                                               |
+|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| ![Image 7](https://github.com/karthirilla/Micromouse_Robot/blob/main/MICROMOUSE_7.jpg) | ![Image 8](https://github.com/karthirilla/Micromouse_Robot/blob/main/MICROMOUSE_8.jpg) |
+
+
 ### Key Features
 
 - **Microcontroller**: Uses **Arduino Nano** as the brain of the robot to control sensors, motors, and algorithms.

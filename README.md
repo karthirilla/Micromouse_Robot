@@ -12,7 +12,7 @@ The robot follows a maze-solving algorithm, specifically the **left-hand algorit
 
 | **Image 1**                                                               | **Image 2**                                                               |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| ![Image 1](https://github.com/karthirilla/Micromouse_Robot/blob/main/MICROMOUSE_1.jpg) | ![Image 2](https://github.com/karthirilla/Micromouse_Robot/blob/main/MICROMOUSE_2.jpg) |
+| ![Image 1](https://github.com/karthirilla/Micromouse_Robot/blob/main/MICROMOUSE_1.jpg) | ![Image 2](https://github.com/karthirilla/Micromouse_Robot/blob/main/MICROMOUSE_2.png) |
 
 | **Image 3**                                                               | **Image 4**                                                               |
 |----------------------------------------------------------------------------|----------------------------------------------------------------------------|
